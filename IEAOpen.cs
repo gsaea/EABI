@@ -10,7 +10,7 @@ using System.Web.Script.Serialization;
 namespace EABI
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the interface name "IEAOpen" in both code and config file together.
-    [ServiceContract(Namespace = "http://icoh2m-qaapp01/EAWeb/EAOpen/EAOpen.svc")]
+    [ServiceContract]
     public interface IEAOpen
     {
 

@@ -77,3 +77,9 @@ C:\Users\ChristianEMarquise\Desktop\EABI09042015\EABI\bin\EABI.dll.config
 C:\Users\ChristianEMarquise\Desktop\EABI09042015\EABI\bin\EABI.dll
 C:\Users\ChristianEMarquise\Desktop\EABI09042015\EABI\bin\EABI.pdb
 C:\Users\ChristianEMarquise\Desktop\EABI09042015\EABI\obj\Debug\EABI.pdb
+C:\Users\ChristianEMarquise\Documents\EABI.git\bin\EABI.dll.config
+C:\Users\ChristianEMarquise\Documents\EABI.git\bin\EABI.dll
+C:\Users\ChristianEMarquise\Documents\EABI.git\bin\EABI.pdb
+C:\Users\ChristianEMarquise\Documents\EABI.git\obj\Debug\EABI.csprojResolveAssemblyReference.cache
+C:\Users\ChristianEMarquise\Documents\EABI.git\obj\Debug\EABI.dll
+C:\Users\ChristianEMarquise\Documents\EABI.git\obj\Debug\EABI.pdb
