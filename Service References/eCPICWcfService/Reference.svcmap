@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1ac11f64-e5f5-4d93-ae8f-df5b13d5e33c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://gsa.ecpic.gov/eCPIC.WcfService/WcfService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WcfService.disco" MetadataType="Disco" ID="a766e2f1-82de-4e1c-810f-ee34a4e139d9" SourceId="1" SourceUrl="https://gsa.ecpic.gov/eCPIC.WcfService/WcfService.svc?disco" />
+    <MetadataFile FileName="WcfService.xsd" MetadataType="Schema" ID="a6c53e3a-6491-4394-bf16-56a03e5b21f2" SourceId="1" SourceUrl="https://gsa.ecpic.gov/eCPIC.WcfService/WcfService.svc?xsd=xsd2" />
+    <MetadataFile FileName="WcfService1.xsd" MetadataType="Schema" ID="58802e12-858b-4440-9c69-be2d2a2fd8d2" SourceId="1" SourceUrl="https://gsa.ecpic.gov/eCPIC.WcfService/WcfService.svc?xsd=xsd3" />
+    <MetadataFile FileName="WcfService2.xsd" MetadataType="Schema" ID="007d1146-e17b-460d-9802-2417398cf61f" SourceId="1" SourceUrl="https://gsa.ecpic.gov/eCPIC.WcfService/WcfService.svc?xsd=xsd0" />
+    <MetadataFile FileName="WcfService3.xsd" MetadataType="Schema" ID="62fe29ed-373c-4e1c-b8fe-ae1e3dacfca4" SourceId="1" SourceUrl="https://gsa.ecpic.gov/eCPIC.WcfService/WcfService.svc?xsd=xsd1" />
+    <MetadataFile FileName="WcfService.wsdl" MetadataType="Wsdl" ID="dc91c65b-8627-4c6f-a55c-50aa5eaf7d4a" SourceId="1" SourceUrl="https://gsa.ecpic.gov/eCPIC.WcfService/WcfService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
